@@ -12,6 +12,7 @@ for color in colors:
     rgb.append(name)
 
  print(rgb)"""
+# If you want to extract colors from different pic and use that in making of spot painting. 
 import random
 import turtle
 from turtle import Turtle, Screen
